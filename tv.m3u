@@ -1081,3 +1081,63 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-vi
 
 #EXTINF:-1 tvg-id="" tvg-name="GULLI" tvg-logo="https://up6.cc/2024/07/17204634779271.jpg" group-title="TV LIVE",GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/4snk4hZ/images.jpg" group-title="TV LIVE",MBC 1
+https://mbc1na-prod-dub-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_6.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://up6.cc/2023/12/170274735988951.jpg" group-title="TV LIVE",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/XzX0CYT/channels4-profile.jpg" group-title="TV LIVE",MBC 5
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://up6.cc/2023/12/170282338453611.png" group-title="TV LIVE",MBC BOLLYWOOD
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_6.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://i.ibb.co/Xpw7RVR/Sans-titre.jpg" group-title="TV LIVE",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_6.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 1" tvg-logo="https://i.ibb.co/pL81BGP/channels4-profile.jpg" group-title="TV LIVE",MBC MASR 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/M714BN2/2.jpg" group-title="TV LIVE",MBC MASR 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
