@@ -4101,6 +4101,78 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TIVI 5" tvg-logo="https://presse.tv5monde.com/wp-content/uploads/2016/05/445553-500x399.jpg" group-title="TV LIVE",TIVI 5
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY" tvg-logo="https://up6.cc/2023/12/170266457299921.jpg" group-title="TV LIVE",RMC STORY
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RMC DÉCOUVERTE" tvg-logo="https://up6.cc/2023/12/170266468148571.png" group-title="TV LIVE",RMC DÉCOUVERTE
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DISCOVERY" tvg-logo="https://up6.cc/2023/10/16968879414761.jpg" group-title="TV LIVE",ASHARQ DISCOVERY
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DOCUMENTARY" tvg-logo="https://up6.cc/2023/09/16939146641581.jpg" group-title="TV LIVE",ASHARQ DOCUMENTARY
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_480p/chunks_dvr.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="https://i.ibb.co/442Zz9f/46c5e4d7ad86f2e84b1059055131fc2e1d4c12f9r1-1200-629v2-uhq.jpg" group-title="TV LIVE",SPACETOON
+https://shls-masr2-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/0QhgdLN/images.jpg" group-title="TV LIVE",MBC 3
+https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/4snk4hZ/images.jpg" group-title="TV LIVE",MBC 1
 https://mbc1na-prod-dub-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_6.m3u8
 
