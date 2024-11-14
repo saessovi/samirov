@@ -24305,6 +24305,27 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TF1 SÉRIES-FILMS" tvg-logo="https://up6.cc/2024/07/172089135353351.jpg" group-title="TV LIVE",TF1 SÉRIES-FILMS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheBRX77tzTPoablxLf9RK1ghYMnTX9K4AIiXMg7gfJKdq6Qg_3KE4XYbj-SgzfgiERYGjKcU7zWjSOIlqu1HKbGRAFZp4xrEimcDsm5BOdkbiOWUQSEsWJ2S6abjK6PVYIDCyNKy7uD3h7r8736pSURdx58otqpcOlXZ19is5PIrcAwEM6LM2Rhbeph9tY/s512/unnamed.png" group-title="TV LIVE",ARTE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="L'ÉQUIPE LIVE FOOT" tvg-logo="https://up6.cc/2024/07/172039709241291.jpg" group-title="TV LIVE",L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 
@@ -24401,6 +24422,9 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-vi
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="GULLI FRANCE" tvg-logo="https://up6.cc/2023/12/17017097438091.jpg" group-title="TV LIVE",GULLI FRANCE
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+
 
 
 
@@ -24415,7 +24439,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RMC STORY" tvg-logo="https://up6.cc/2023/12/170266457299921.jpg" group-title="TV LIVE",RMC STORY
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAVIU7JjhT-123ovzqUGpPO1ae29gGC518hAYYf3a6K52jaXFAJPwYkuENkHGct9EoA5pflb4_Oqc2BEkl7G9xRVhCeoAbbiJHzgYqSMaNUiKdJEbbKIK_PANPCGhzZp_aEefMYu8EFhN9yLmtMquDlsLGM_yd1W-_q4Lfh-Wl_AtiynMAxYbtVD7pMzoX/s225/170266457299921.jpg" group-title="TV LIVE",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 
 
@@ -24425,7 +24449,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RMC DÉCOUVERTE" tvg-logo="https://up6.cc/2023/12/170266468148571.png" group-title="TV LIVE",RMC DÉCOUVERTE
+#EXTINF:-1 tvg-id="" tvg-name="RMC DÉCOUVERTE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5tBnvtnQBIrRST4OzOIkWiB97De1AKsa4IETHZGhVbNh3VeqO4rp8QC8hN5roGhXnVEuQyWlILNHMAIrb_PTUGkF4WkR7OXap5ozaKzWbseEeqAYVmklVuMmwqHpbgY7wGYqUySxpxth_Vyqp6Fgxwnw4nalk7vL8QCAD8i2DzP9L7WOaeBuAhR98FKIK/s512/170266468148571.png" group-title="TV LIVE",RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 
 
@@ -24433,7 +24457,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DISCOVERY" tvg-logo="https://up6.cc/2023/10/16968879414761.jpg" group-title="TV LIVE",ASHARQ DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DISCOVERY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF10r1aHrFBTifjM7rCT-csn49kU6CNGH9_TjSULmNbpcuph5159aEUazVGapciiygbpeGQWyn4fHbPD2r4INW1YZ-TjILfRBN6Xj6sREabrYtAU1CdtVDe0Y2CmusHtrRCxpJFuV5mausqnGmpfAX1D4fHgIaWGqFF9KMRHEbi3FScm5ImNirhl8PgxjK/s225/images.jpg" group-title="TV LIVE",ASHARQ DISCOVERY
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8
 
 
@@ -24445,7 +24469,7 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypubli
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DOCUMENTARY" tvg-logo="https://up6.cc/2023/09/16939146641581.jpg" group-title="TV LIVE",ASHARQ DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvMYKwWo8zTdR8qw_RC8TpOtTErwsZeHWZPWPjms1zfnD6I_QhZ4TYRqWnLiQSPeaWOlsmnoLCcfyiCUmO6fwqvRp341-TR_CP08uG2wA0sI4IETFDOgUzCZsntZOAm8UzB3e5RZ5U0828QYmQR8hTcPRcGd8aXnvSxp2T64E1DrjDCa0tuNy6S_I8VO7R/s225/FFFF.jpg" group-title="TV LIVE",ASHARQ DOCUMENTARY
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_480p/chunks_dvr.m3u8
 
 
@@ -24459,8 +24483,7 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdo
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="https://i.ibb.co/442Zz9f/46c5e4d7ad86f2e84b1059055131fc2e1d4c12f9r1-1200-629v2-uhq.jpg" group-title="TV LIVE",SPACETOON
-https://shls-masr2-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8
-
+https://spacetoon-prod-dub-enc.edgenextcdn.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_6.m3u8
 
 
 
@@ -24468,8 +24491,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/inde
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/0QhgdLN/images.jpg" group-title="TV LIVE",MBC 3
-https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
-
+https://mbc-3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_7.m3u8
 
 
 
@@ -24480,16 +24502,14 @@ https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/4snk4hZ/images.jpg" group-title="TV LIVE",MBC 1
-https://mbc1na-prod-dub-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_6.m3u8
-
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_2.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://up6.cc/2023/12/170274735988951.jpg" group-title="TV LIVE",MBC 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
-
+https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_7.m3u8
 
 
 
@@ -24497,17 +24517,11 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/XzX0CYT/channels4-profile.jpg" group-title="TV LIVE",MBC 5
-https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
+https://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
 
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://up6.cc/2023/12/170282338453611.png" group-title="TV LIVE",MBC BOLLYWOOD
-https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_6.m3u8
 
 
 
@@ -24516,8 +24530,7 @@ https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://i.ibb.co/Xpw7RVR/Sans-titre.jpg" group-title="TV LIVE",MBC IRAQ
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_6.m3u8
-
+https://iraq-prod-dub-enc.edgenextcdn.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_6.m3u8
 
 
 
@@ -24525,15 +24538,13 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR 1" tvg-logo="https://i.ibb.co/pL81BGP/channels4-profile.jpg" group-title="TV LIVE",MBC MASR 1
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-
+https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_51.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/M714BN2/2.jpg" group-title="TV LIVE",MBC MASR 2
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
-
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
 
 
 
@@ -24542,12 +24553,11 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAMA PLUS" tvg-logo="https://i.ibb.co/Z6wsQ9j/images.jpg" group-title="TV LIVE",DRAMA PLUS
-https://shls-masr2-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_6.m3u8
-
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_6.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://up6.cc/2023/11/169910668337091.jpg" group-title="TV LIVE",MBC DRAMA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_25.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_26.m3u8
